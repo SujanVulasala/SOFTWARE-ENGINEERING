@@ -3,3 +3,4 @@ EXP-1 - "[EXPERIMENT-1](https://github.com/SujanVulasala/SOFTWARE-ENGINEERING/tr
 EXP-1-DOCUMENTATION - "[SE-EXP-1](https://github.com/SujanVulasala/SOFTWARE-ENGINEERING/blob/main/EXPERIMENTS-DOCUMENTATION/SE_EXP_1%5B1%5D.docx)"
 
 EXP-2 - "[WATERFALL MODEL](https://github.com/SujanVulasala/SOFTWARE-ENGINEERING/tree/main/SE%20EXP-2/Waterfall)","[ITERATIVE MODEL](https://github.com/SujanVulasala/SOFTWARE-ENGINEERING/tree/main/SE%20EXP-2/Iterative)",[AGILE MODEL](https://github.com/SujanVulasala/SOFTWARE-ENGINEERING/tree/main/SE%20EXP-2/Agile)"
+EXP-2-DOCUMENTATION - "[SE-EXP-2](https://github.com/SujanVulasala/SOFTWARE-ENGINEERING/blob/main/EXPERIMENTS-DOCUMENTATION/SE%20EXP%202.docx)"
